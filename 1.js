@@ -10,7 +10,7 @@ let acumulador = 0;
 
 for(let i = 0; i < 5; i++){
 
-   const numero = Number(await rl.question("Digite um número: "));
+   const numero = Number(await rl.question("Digite um númeroo: "));
 
    acumulador = acumulador + numero;
 }

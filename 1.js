@@ -1,4 +1,4 @@
-const readline = require('node:readline/promises');
+const readline = require('node:readline/promises'); 
 const {stdin: input, stdout: output } = require("node:process");
 
 async function main() {
